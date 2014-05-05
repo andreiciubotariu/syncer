@@ -9,8 +9,8 @@
 *.class
 
 # Generated files
-bin/
-gen/
+Syncer/bin/
+Syncer/gen/
 
 # Gradle files
 .gradle/
